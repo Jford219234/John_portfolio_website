@@ -1,3 +1,3 @@
-#Thinkful Capstone1
-For my first capstone project I worked with a dataset for a rental car company.  I created a model in excel that included multiple different financial strategies that would help to increase profits and decrease costs.  I also created visualizations for each strategy and a short presentation. 
+
+For this project I worked with a large dataset for a rental car company. It contained all rentals from the past year, every car make and model in the fleet, each rental store across the country and financial data for each rental.  I created a model in excel that included multiple different financial strategies that would help to increase profits and decrease costs. These strategies were created to forecast the revenue and costs for the next year. The models were designed to increase the fleet by 25%, Decrease costs by 10% and increase revenue by 10%. I also created visualizations using charts in excel for each strategy. Using insights from these models, I created a powerpoint presentation and presented it to decision makers to show how these models would affect the revenue for the next calendar year. 
 
